@@ -8,6 +8,7 @@
 
 int main(int, char) {
 
-printf("Rachel Tysdal\n");
+printf("Rachel Tysdal!\n");
+printf("My major is Electrical Engineering\n");
 return 0;
 }
